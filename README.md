@@ -7,14 +7,16 @@ My name is peer and i am a game artist and game developer(student)
 - 😄 What makes me smile: Instruments, sensors, Prototyping & 3D art
 
 ### Social Media And other platforms:
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Blogger.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/YouTube_play_button_square_%282013-2017%29.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Soundcloud" width="22px" src= https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Antu_soundcloud.svg/512px-Antu_soundcloud.svg.png " />][Soundcloud]
-  [<img align="left" alt="codeSTACKr | Behance" width="22px"src=https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Behance_while_icon.svg/512px-Behance_while_icon.svg.png " />][Behance]
-  [<img align="left" alt="codeSTACKr | Itch.io" width="22px"src=https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Itch.io_logo.svg/320px-Itch.io_logo.svg.png " />][Itch.io]
+[<img align="left" alt="PeerLomans" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Blogger.svg" />][website]
+[<img align="left" alt="PeerLomans | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/YouTube_play_button_square_%282013-2017%29.svg" />][youtube]
+[<img align="left" alt="PeerLomans | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" />][twitter]
+[<img align="left" alt="PeerLomans | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />][linkedin]
+[<img align="left" alt="PeerLomans | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
+
+
+[<img align="left" alt="PeerLomans | Soundcloud" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Antu_soundcloud.svg/512px-Antu_soundcloud.svg.png " />][Soundcloud]
+  [<img align="left" alt="PeerLomans | Behance" width="22px"src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Behance_while_icon.svg/512px-Behance_while_icon.svg.png " />][Behance]
+  [<img align="left" alt="PeerLomans | Itch.io" width="22px"src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Itch.io_logo.svg/320px-Itch.io_logo.svg.png " />][Itch.io]
 
 
 
