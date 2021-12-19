@@ -13,10 +13,9 @@ My name is peer and i am a game artist and game developer(student)
 [<img align="left" alt="PeerLomans | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />][linkedin]
 [<img align="left" alt="PeerLomans | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
 
-
-[<img align="left" alt="PeerLomans | Soundcloud" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Antu_soundcloud.svg/512px-Antu_soundcloud.svg.png " />][Soundcloud]
-  [<img align="left" alt="PeerLomans | Behance" width="22px"src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Behance_while_icon.svg/512px-Behance_while_icon.svg.png " />][Behance]
-  [<img align="left" alt="PeerLomans | Itch.io" width="22px"src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Itch.io_logo.svg/320px-Itch.io_logo.svg.png " />][Itch.io]
+[<img align="left" alt="PeerLomans | Soundcloud" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Antu_soundcloud.svg" />][Soundcloud]
+[<img align="left" alt="PeerLomans | Behance" width="22px"src="https://cdn.worldvectorlogo.com/logos/behance-1.svg" />][Behance]
+[<img align="left" alt="PeerLomans | Itch.io" width="22px"src="https://static.itch.io/images/itchio-textless-black.svg " />][Itch.io]
 
 
 
