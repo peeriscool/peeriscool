@@ -12,7 +12,8 @@ My name is peer and i am a game artist and game developer(student)
 [<img align="left" alt="PeerLomans | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" />][twitter]
 [<img align="left" alt="PeerLomans | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />][linkedin]
 [<img align="left" alt="PeerLomans | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
-[<img align="left" alt="PeerLomans | Behance" width="22px"src="https://cdn.worldvectorlogo.com/logos/behance-1.svg" />][Behance]
+
+[<img align="left" alt="PeerLomans | Behance" width="22px" src="https://cdn.worldvectorlogo.com/logos/behance-1.svg" />][Behance]
 [<img align="left" alt="PeerLomans | Itch.io" width="22px"src="https://static.itch.io/images/itchio-textless-black.svg" />][Itchio]
 [<img align="left" alt="PeerLomans | Soundcloud" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Antu_soundcloud.svg" />][Soundcloud]
 
@@ -25,7 +26,7 @@ My name is peer and i am a game artist and game developer(student)
 [linkedin]: https://www.linkedin.com/in/peer-lomans-92953a205/
 [Soundcloud]: https://soundcloud.com/peer-lomans
 [Behance]: https://www.behance.net/PeerLomans
-[Itch.io] https://appelkoeken.itch.io/
+[Itchio]: https://appelkoeken.itch.io/
 <!--
 **peeriscool/peeriscool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
