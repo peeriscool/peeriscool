@@ -7,7 +7,7 @@ My name is peer and i am a game artist and game developer(student)
 - 😄 What makes me smile: Instruments, sensors, Prototyping & 3D art
 
 ### Social Media And other platforms:
-[<img align="left" alt="codeSTACKr.com" width="22px" src="http://www.w3.org/2000/svg" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Blogger.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
