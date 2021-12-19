@@ -12,7 +12,9 @@ My name is peer and i am a game artist and game developer(student)
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
-
+[<img align="left" alt="codeSTACKr | Soundcloud" width="22px" src= https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Antu_soundcloud.svg/512px-Antu_soundcloud.svg.png " />][Soundcloud]
+  [<img align="left" alt="codeSTACKr | Behance" width="22px"src=https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Behance_while_icon.svg/512px-Behance_while_icon.svg.png " />][Behance]
+  [<img align="left" alt="codeSTACKr | Itch.io" width="22px"src=https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Itch.io_logo.svg/320px-Itch.io_logo.svg.png " />][Itch.io]
 
 
 
@@ -21,7 +23,9 @@ My name is peer and i am a game artist and game developer(student)
 [youtube]: https://www.youtube.com/channel/UCfxUVdVpsSGFSJkeXcnGSxg
 [instagram]: https://www.instagram.com/justreallypear/
 [linkedin]: https://www.linkedin.com/in/peer-lomans-92953a205/
-
+[Soundcloud]: https://soundcloud.com/peer-lomans
+[Behance]: https://www.behance.net/PeerLomans
+[Itch.io] https://appelkoeken.itch.io/
 <!--
 **peeriscool/peeriscool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
