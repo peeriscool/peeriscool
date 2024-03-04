@@ -2,9 +2,10 @@
 Hi and welcome to my Github page!
 My name is peer and i am a game artist and game developer(student)
 
-- 🔭 I’m currently working on finishing my second year of Game development
-- 🌱 I’m currently learning c++,Kinect V2 & Unity
+- 🔭 I’m currently 4th year Game developer at the HKU Utrecht
+- 🌱 I’m currently learning about c#, c++, Unity, Unreal engine and touch designer. 
 - 😄 What makes me smile: Instruments, sensors, Prototyping & 3D art
+In my spare time i make music, draw and prototype arduino projects. 
 
 ### Social Media And other platforms:
 [<img align="left" alt="PeerLomans" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Blogger.svg" />][website]
@@ -18,7 +19,7 @@ My name is peer and i am a game artist and game developer(student)
 [<img align="left" alt="PeerLomans | Itchio" width="22px" src="https://static.itch.io/images/itchio-textless-black.svg" />][Itchio]
 
 
-[website]: https://peersplayfullworld.blogspot.com/
+[website]: https://peerlomans.weebly.com/
 [twitter]: https://twitter.com/PeerLomans
 [youtube]: https://www.youtube.com/channel/UCfxUVdVpsSGFSJkeXcnGSxg
 [instagram]: https://www.instagram.com/justreallypear/
