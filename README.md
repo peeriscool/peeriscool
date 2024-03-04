@@ -20,13 +20,14 @@ In my spare time i make music, draw and prototype arduino projects.
 
 
 [website]: https://peerlomans.weebly.com/
-[twitter]: https://twitter.com/PeerLomans
-[youtube]: https://www.youtube.com/channel/UCfxUVdVpsSGFSJkeXcnGSxg
+[twitter]: https://twitter.com/PeerLomans/
+[youtube]: https://www.youtube.com/channel/UCfxUVdVpsSGFSJkeXcnGSxg/
 [instagram]: https://www.instagram.com/justreallypear/
 [linkedin]: https://www.linkedin.com/in/peer-lomans-92953a205/
 [Soundcloud]: https://soundcloud.com/peer-lomans/
 [Behance]: https://www.behance.net/PeerLomans/
 [Itchio]: https://appelkoeken.itch.io/
+
 <!--
 **peeriscool/peeriscool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
