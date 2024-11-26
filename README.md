@@ -1,6 +1,6 @@
 ### About Me: 
 Hi and welcome to my Github page!
-My name is peer and i am a game artist and game developer(student)
+My name is peer a game artist and game developer
 
 - 🔭 I’m currently 4th year Game developer at the HKU Utrecht
 - 🌱 I’m currently learning about c#, c++, Unity, Unreal engine and touch designer. 
