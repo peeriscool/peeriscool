@@ -10,7 +10,7 @@ In my spare time i make music, draw and prototype arduino projects.
 ### Social Media And other platforms:
 [<img align="left" alt="PeerLomans" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Blogger.svg" />][website]
 [<img align="left" alt="PeerLomans | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/YouTube_play_button_square_%282013-2017%29.svg" />][youtube]
-[<img align="left" alt="PeerLomans | Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />][twitter]
+[<img align="left" alt="PeerLomans | X" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" />][twitter]
 [<img align="left" alt="PeerLomans | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />][linkedin]
 [<img align="left" alt="PeerLomans | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
 [<img align="left" alt="PeerLomans | Behance" width="22px" src="https://cdn.worldvectorlogo.com/logos/behance-1.svg" />][Behance]
